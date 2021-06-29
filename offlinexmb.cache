@@ -1,5 +1,5 @@
 CACHE MANIFEST 
-# PS4 Offline Cache 06-22-2021
+# v2.5.5 Self-Host 
 
 BigInteger.min.js
 bootstrap.js
@@ -805,11 +805,4 @@ main.js
 main_loader.gif
 README.md
 search-icon.png
-
-NETWORK:
-*
-
-SETTINGS:
-prefer-online:
-
-# Date: 2021-22-06 1:55am GMT-6:
+trainer.cache
