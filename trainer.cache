@@ -1,5 +1,5 @@
 CACHE MANIFEST 
-# PS4 Offline Cache 06-22-2021
+# PS4 Offline Cache 06-26-2021
 
 BigInteger.min.js
 bootstrap.js
@@ -662,7 +662,7 @@ CUSA12979_01.03.json
 CUSA13034.jpg
 CUSA13034_01.02.json
 CUSA13115.jpg
-CUSA13115_01.02.json
+CUSA13115_1.02.json
 CUSA13197.jpg
 CUSA13197_01.09.json
 CUSA13275.jpg
@@ -705,7 +705,7 @@ CUSA14614_01.10.json
 CUSA14835.jpg
 CUSA14835_01.10.json
 CUSA14896.jpg
-CUSA14896_01.02.json
+CUSA14896_1.02.json
 CUSA14910.jpg
 CUSA14910_01.01.json
 CUSA15027.jpg
@@ -791,19 +791,16 @@ fontawesome-webfont.eot
 fontawesome-webfont.svg
 fontawesome-webfont.ttf
 fontawesome-webfont.woff
-fontawesome-webfont.woff2
 index.html
 jOAMTdL.png
 jquery.min.js
 lazyload.min.js
 LICENSE
 list.json
-list.rar
 loadingoverlay.min.js
 main.css
 main.js
 main_loader.gif
-README.md
 search-icon.png
 
 NETWORK:
@@ -812,4 +809,4 @@ NETWORK:
 SETTINGS:
 prefer-online:
 
-# Date: 2021-22-06 1:55am GMT-6:
+# Date: 2021-26-06 26/06/2021 12:47pm GMT-6

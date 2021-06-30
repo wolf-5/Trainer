@@ -2526,59 +2526,59 @@
             "version": "01.01",
             "url": "CUSA12567_01.01.json"
         },
-		{
-            "name": "Zombie Army Trilogy",
-            "title": "CUSA01773",
-            "version": "01.00",
-            "url": "CUSA01773_01.00.json"
+        {
+            "name": "Zombie Driver: Immortal Edition",
+            "title": "CUSA17453",
+            "version": "01.01",
+            "url": "CUSA17453_01.01.json"
         },
-		{
+        {
             "name": "Rogue Aces",
             "title": "CUSA02927",
             "version": "01.02",
             "url": "CUSA02927_01.02.json"
         },
-		{
+        {
             "name": "Shadow Blade Reload",
             "title": "CUSA03778",
             "version": "01.02",
             "url": "CUSA03778_01.02.json"
         },
-		{
+        {
             "name": "The Surge 2",
             "title": "CUSA12567",
             "version": "01.03",
             "url": "CUSA12567_01.03.json"
         },
-		{
-            "name": "Watch Dogs®: Legion",
-            "title": "CUSA13115",
-            "version": "01.02",
-            "url": "CUSA13115_01.02.json"
-        },
-		{
-            "name": "CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS",
-            "title": "CUSA14896",
-            "version": "01.02",
-            "url": "CUSA14896_01.02.json"
-        },
-		{
-            "name": "Bayonetta",
-            "title": "CUSA16163",
-            "version": "01.01",
-            "url": "CUSA16163_01.01.json"
-        },
-		{
+        {
             "name": "Blasphemous",
             "title": "CUSA16261",
             "version": "01.05",
             "url": "CUSA16261_01.05.json"
         },
         {
-            "name": "Zombie Driver: Immortal Edition",
-            "title": "CUSA17453",
+            "name": "Zombie Army Trilogy",
+            "title": "CUSA01773",
+            "version": "01.00",
+            "url": "CUSA01773_01.00.json"
+        },
+        {
+            "name": "Watch Dogs®: Legion",
+            "title": "CUSA13115",
+            "version": "1.02",
+            "url": "CUSA13115_1.02.json"
+        },
+        {
+            "name": "CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS",
+            "title": "CUSA14896",
+            "version": "1.02",
+            "url": "CUSA14896_1.02.json"
+        },
+        {
+            "name": "Bayonetta",
+            "title": "CUSA16163",
             "version": "01.01",
-            "url": "CUSA17453_01.01.json"
+            "url": "CUSA16163_01.01.json"
         }
     ]
 }
