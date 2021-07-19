@@ -1,7 +1,7 @@
 CACHE MANIFEST 
 # PS4 Offline Cache 07-16-2021
 
- BigInteger.min.js
+BigInteger.min.js
 bootstrap.js
 bootstrap.min.css
 CUSA00002.jpg
@@ -817,6 +817,7 @@ CUSA24669_01.01.json
 error.png
 favicon.png
 font-awesome.min.css
+font.woff2
 fontawesome-webfont.eot
 fontawesome-webfont.svg
 fontawesome-webfont.ttf
@@ -828,7 +829,7 @@ jquery.min.js
 lazyload.min.js
 list.json
 loadingoverlay.min.js
-Main.css
+main.css
 main.js
 main_loader.gif
 search-icon.png
