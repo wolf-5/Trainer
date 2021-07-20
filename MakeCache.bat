@@ -1,7 +1,4 @@
 @echo off
-echo CACHE MANIFEST > test0.txt
-echo # v2.5.5 Self-Host >> test0.txt
-echo. >> test0.txt
 
 set LOC=%~dp0
 
