@@ -320,7 +320,7 @@ $(document).ready(function()
     var listUrl = "./list.json";
 
     $.LoadingOverlay("show", {
-        image: "main_loader.gif",
+        image: "./main_loader.gif",
         imageAnimation: "0.8s fadein"
     });
 
@@ -453,7 +453,7 @@ function TrainerClickCallback()
     $("#cover").attr('data-src', "./" + cusa + ".jpg");
     observer.load($("#cover").get(0), true);
     $.LoadingOverlay("show", {
-        image: "main_loader.gif",
+        image: "./main_loader.gif",
         imageAnimation: "0.8s fadein"
     });
 
