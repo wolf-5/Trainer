@@ -320,7 +320,7 @@ $(document).ready(function()
     var listUrl = "./list.json";
 
     $.LoadingOverlay("show", {
-        image: "./main_loader.gif",
+        image: "main_loader.gif",
         imageAnimation: "0.8s fadein"
     });
 
@@ -342,8 +342,8 @@ function ListCallback(data)
     {
 		    var item1 = a.name.toUpperCase();
     var item2 = b.name.toUpperCase();
-        if(item1.name < item2.name) { return -1; }
-        if(item1.name > item2.name) { return 1; }
+        if(item1 < item2) { return -1; }
+        if(item1 > item2) { return 1; }
         return 0;
     });
     $.each(data.games, function(i, trainer)
@@ -453,7 +453,7 @@ function TrainerClickCallback()
     $("#cover").attr('data-src', "./" + cusa + ".jpg");
     observer.load($("#cover").get(0), true);
     $.LoadingOverlay("show", {
-        image: "./main_loader.gif",
+        image: "main_loader.gif",
         imageAnimation: "0.8s fadein"
     });
 
@@ -494,5 +494,3 @@ function TrainerClickCallback()
     });
 
 }
-
-
