@@ -1,8 +1,7 @@
 @echo off
-
 echo CACHE MANIFEST > test0.txt
+echo # v2.5.5 Self-Host >> test0.txt
 echo. >> test0.txt
-echo CACHE: >> test0.txt
 
 set LOC=%~dp0
 
@@ -12,7 +11,7 @@ echo. >> test0.txt
 echo NETWORK: >> test0.txt
 echo * >> test0.txt
 
-findstr /v "media .bat .exe .mp4 .git .ini .py test0.txt" test0.txt > test.txt
+findstr /v "media .bat .exe .mp4 .git .py test0.txt" test0.txt > test.txt
 del test0.txt
 
 @echo off
